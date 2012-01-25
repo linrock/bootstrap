@@ -165,12 +165,6 @@ section {
   border-right: 0;
 }
 
-.subhead .subnav-fixed {
-  position: fixed;
-  top: 40px;
-  z-index:1000;
-}
-
 
 /* Quick links
 -------------------------------------------------- */
@@ -423,8 +417,6 @@ pre.prettyprint {
 
 /* Make tables spaced out a bit more */
 h2 + table,
-h3 + table,
-h4 + table,
 h2 + .row {
   margin-top: 5px;
 }
